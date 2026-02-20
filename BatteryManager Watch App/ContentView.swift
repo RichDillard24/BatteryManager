@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  BatteryManager Watch App
-//
-//  Created by Richard Dillard on 1/10/26.
-//
 
 import SwiftUI
 
